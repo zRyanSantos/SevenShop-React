@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Fonte Gigabyte Ultra Durable, 850W, 80 Plus Gold, Modular, PFC Ativo, Bivolt, PCIE 5, Preto - GP-UD850GM PG5",
+        "price": "R$1.199,99",
+        "newprice": "R$ 999,99",
+        "src": "fonte850w",
+        "id": "1"
+    },
+    {
+        "name": "Placa Mãe GIGABYTE A520M S2H DDR4 SOCKET AM4 CHIPSET AMD A520.",
+        "price": "R$629,99",
+        "newprice": "R$598,49",
+        "src": "a520m",
+        "id": "2"
+    },
+    {
+        "name": "Processador AMD Ryzen 5 5500, 3.6GHz (4.2GHz Max Turbo), Cache 19MB, AM4, Sem Vídeo - 100-100000457BOX",
+        "price": "R$889,99",
+        "newprice": "R$749,99",
+        "src": "r55500",
+        "id": "3"
+    },
+    {
+        "name": "Headset Gamer Redragon Zeus X, Chroma Mk.II, RGB, Surround 7.1, USB, Drivers 53MM, Preto/Vermelho - H510-RGB",
+        "price": "R$435,28",
+        "newprice": "R$289,99",
+        "src": "zeusx",
+        "id": "4"
+    },
+    {
+        "name": "Placa de Vídeo RTX 4060 Ti VENTUS 3X 8G OC MSI NVIDIA GeForce, 8 GB GDDR6, DLSS, Ray Tracing",
+        "price": "R$3.222,21",
+        "newprice": "R$2.539,99",
+        "src": "rtx4060",
+        "id": "5"
+    },
+    {
+        "name": "Console Playstation 5 Sony, SSD 825GB, Controle sem fio DualSense, Com Mídia Física, Branco - 1214A",
+        "price": "R$4.499,90",
+        "newprice": "R$3.858,57",
+        "src": "ps5",
+        "id": "6"
+    },
+    {
+        "name": "Cadeira Gamer Alpha Gamer Vega, Preto, Reclinável, com Almofadas, Cilindro de Gás Classe 4",
+        "price": "R$829,99",
+        "newprice": "R$599,90",
+        "src": "cadeiraalpha",
+        "id": "7"
+    },
+    {
+        "name": "Monitor Gamer LG UltraGear 32 LED, 165 Hz, QHD, 1ms, HDMI/DisplayPort, 95% sRGB, FreeSync Premium, HDR 10, VESA, Preto - 32GN600-B",
+        "price": "R$2.105,25",
+        "newprice": "R$1.499,99",
+        "src": "lg165hz",
+        "id": "8"
+    },
+    {
+        "name": "Smartphone Motorola Moto E13, 64GB, 4GB RAM, Octa Core, Câmera 13MP, Tela de 6.5, Off White - PAXV0011BR",
+        "price": "R$652,16",
+        "newprice": "R$569,99",
+        "src": "motoe13",
+        "id": "9"
+    },
+    {
+        "name": "Headset Gamer Sem Fio Logitech G935 7.1 Dolby Surround RGB LIGHTSYNC para PC, PlayStation, Xbox e Switch",
+        "price": "R$999,99",
+        "newprice": "R$499,49",
+        "src": "g935",
+        "id": "10"
+    }
+]
